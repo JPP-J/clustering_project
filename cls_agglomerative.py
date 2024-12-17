@@ -3,10 +3,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 from collections import Counter
 from sklearn.cluster import AgglomerativeClustering
-from evaluate_clustering import evaluate_clustering
-from plot_clustering import (plot_cls_pca_2d, plot_cls_pca_3d, plot_cluster_label_percentage,
+from utils.evaluate_clustering import evaluate_clustering
+from utils.plot_clustering import (plot_cls_pca_2d, plot_cls_pca_3d, plot_cluster_label_percentage,
                              plot_pca_2d)
-from clustering_extended import suitable_k_agglo
+from utils.clustering_extended import suitable_k_agglo
 
 
 # Part1: Load dataset
