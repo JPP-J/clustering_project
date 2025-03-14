@@ -1,7 +1,7 @@
 # Clustering Project
 
 This repo is home to the code that accompanies Jidapa's *Clustering Project* , which provides; 
-- example python code for clustering data on [winequality_red](https://drive.google.com/file/d/1jXQIFh6y3xo52byug_UcqBdtZgjOMn_D/view?usp=drive_link) with:
+- example python code for clustering data on [winequality_red](https://drive.google.com/file/d/1jXQIFh6y3xo52byug_UcqBdtZgjOMn_D/view?usp=drive_link) and [example results](https://github.com/JPP-J/clustering_project/blob/39f4bb2d50e2a279440ee6c27240fb51decb42f5/example_results_clustering.ipynb) details with:
   - K-mean algorithms
   - Aggomerative (Hierarchical Clustering bottom-up) 
   - DBSCAN (Density based  Clustering) 
