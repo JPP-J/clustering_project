@@ -25,6 +25,13 @@ This project clusters the [Wine Quality dataset (red wine)](https://drive.google
 - 1599 samples with 12 features including quality score.
 - Balanced subset used for clustering: Quality 5, 6, 7 each with 199 samples.
 
+## Libraries Used
+- `pandas`
+- `NumPy`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
+
 ## Results summary
 
 | Algorithm           | Silhouette Score | Adjusted Rand Index | Davies-Bouldin Index |
