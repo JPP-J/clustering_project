@@ -67,7 +67,8 @@ Clustering high-dimensional, real-world data poses several challenges:
 - **Parameter Tuning:** DBSCAN’s `eps` and `min_samples` parameters required careful tuning to avoid labeling most data as noise.
 - **Imbalanced Data:** Some quality levels were underrepresented, so a balanced subset (e.g., 199 samples of quality 5, 6, and 7) was selected and rebalance selected features.
 
-
+## 📊 Libraries Used
+- `pandas`, `NumPy`, `matplotlib`, `seaborn`, `scikit-learn`
 
 ## 📁 Project Structure & Usage
 
@@ -84,9 +85,6 @@ Clustering high-dimensional, real-world data poses several challenges:
 - [Scikit-learn Clustering](https://scikit-learn.org/stable/modules/clustering.html)
 
 
-
-## 📊 Libraries Used
-- `pandas`, `NumPy`, `matplotlib`, `seaborn`, `scikit-learn`
 
 
 > Other tool for clustering - rapid miner: [rapid miner report](https://drive.google.com/file/d/1n-Islo_OX2Ijr09WMZmhxFzlv-Of2SO2/view?usp=drive_link)
